@@ -1,3 +1,7 @@
+> [!WARNING]
+> This crate has been archived. Development has moved to the [zksync-crypto](https://github.com/matter-labs/zksync-crypto) repository.
+> Please use it instead.
+
 # pairing "community edition"
 
 Now published as `pairing_ce` to `crates.io` for users convenience.
